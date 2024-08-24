@@ -1,0 +1,1 @@
+background-image: linear-gradient(rgb(144, 232, 142), color(srgb 0.98 0.62 0.62));
